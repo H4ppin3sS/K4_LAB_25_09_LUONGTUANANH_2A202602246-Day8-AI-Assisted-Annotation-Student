@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe tối gần mép trái,added,Thấy thân xe và đủ ranh giới theo GUIDELINE_LABEL.md
+2,frame_0107.jpg,xe sát nhau quá dẫn đến box chung,deleted and added,Thấy rõ cả hai xe
+3,frame_0182.jpg,box đánh vượt qua khỏi xe,edited,Thấy rõ xe
+4,frame_0270.jpg,box không đánh xe tải,added,Thấy rõ xe 
